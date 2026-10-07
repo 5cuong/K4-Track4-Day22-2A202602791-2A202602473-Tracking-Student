@@ -1,0 +1,7 @@
+lab_data/
+runs/
+TrackEval/
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
